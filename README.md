@@ -1,4 +1,3 @@
-# maysnz
 ### ¡Hola! 👋 Soy [Mayra Sánchez](https://github.com/maysnz)
 
 Soy una análista de datos apasionado por descifrar patrones y generar insights significativos. Tengo experiencia trabajando con diversos conjuntos de datos y herramientas de análisis y visualización de datos.
